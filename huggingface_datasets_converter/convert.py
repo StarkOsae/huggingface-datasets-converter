@@ -33,6 +33,7 @@ kaggle_license_map = {
     'DbCL-1.0': 'odbl',  # Note - this isn't exactly right, but dbcl-1.0 inherits from it.
     'other': 'other',
     'unknown': 'unknown',
+    'Apache-2.0': 'apache-2.0',
 }
 
 
